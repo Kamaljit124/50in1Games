@@ -16,7 +16,7 @@ public class PlayerJump : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if (Input.GetButtonDown("Jump") && rigidbody2D.velocity.y == 0)
+        if (Input.GetButtonDown("Jump") /*&& rigidbody2D.velocity.y == 0*/)
         {
             rigidbody2D.AddForce(new Vector2(0, jumpForce), ForceMode2D.Impulse);
         }
