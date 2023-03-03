@@ -11,6 +11,7 @@ GameObject:
   - component: {fileID: 1708447630478346838}
   - component: {fileID: 1708447630478346825}
   - component: {fileID: 1708447630478346839}
+  - component: {fileID: 1309817398}
   m_Layer: 0
   m_Name: obstacles_1_spike
   m_TagString: Untagged
@@ -111,3 +112,16 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 1.0538096, y: 1.1736548}
   m_EdgeRadius: 0
+--- !u!114 &1309817398
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1708447630478346824}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9a62266adf2ab41428da0fbd27a7efdf, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  hitValue: 0.2
