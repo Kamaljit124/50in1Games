@@ -255,6 +255,42 @@ PrefabInstance:
       propertyPath: playerTransform
       value: 
       objectReference: {fileID: 784843696}
+    - target: {fileID: 1816433365029741220, guid: 5851954a9566b1e40b7141b9a44012aa, type: 3}
+      propertyPath: normalGroundPrefabs.Array.size
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 1816433365029741220, guid: 5851954a9566b1e40b7141b9a44012aa, type: 3}
+      propertyPath: rewardGroundPrefabs.Array.size
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 1816433365029741220, guid: 5851954a9566b1e40b7141b9a44012aa, type: 3}
+      propertyPath: normalGroundPrefabs.Array.data[0]
+      value: 
+      objectReference: {fileID: 1510125447966884361, guid: e259b3d4e152bf444bd5e6dc8ffff88b, type: 3}
+    - target: {fileID: 1816433365029741220, guid: 5851954a9566b1e40b7141b9a44012aa, type: 3}
+      propertyPath: normalGroundPrefabs.Array.data[1]
+      value: 
+      objectReference: {fileID: 6133067813451771379, guid: 025acb621251daf4298671759c72a29a, type: 3}
+    - target: {fileID: 1816433365029741220, guid: 5851954a9566b1e40b7141b9a44012aa, type: 3}
+      propertyPath: normalGroundPrefabs.Array.data[2]
+      value: 
+      objectReference: {fileID: 2993282807018137746, guid: 9848a1dccc89a234bb825bfa49fe2870, type: 3}
+    - target: {fileID: 1816433365029741220, guid: 5851954a9566b1e40b7141b9a44012aa, type: 3}
+      propertyPath: normalGroundPrefabs.Array.data[3]
+      value: 
+      objectReference: {fileID: 2993282807018137746, guid: 9848a1dccc89a234bb825bfa49fe2870, type: 3}
+    - target: {fileID: 1816433365029741220, guid: 5851954a9566b1e40b7141b9a44012aa, type: 3}
+      propertyPath: rewardGroundPrefabs.Array.data[0]
+      value: 
+      objectReference: {fileID: 5643218324875587809, guid: 580e910be2e1763449841fd30f8889e3, type: 3}
+    - target: {fileID: 1816433365029741220, guid: 5851954a9566b1e40b7141b9a44012aa, type: 3}
+      propertyPath: rewardGroundPrefabs.Array.data[1]
+      value: 
+      objectReference: {fileID: 9014479814079825918, guid: 56a1ca46c479234429d4bb02c17a80b9, type: 3}
+    - target: {fileID: 1816433365029741220, guid: 5851954a9566b1e40b7141b9a44012aa, type: 3}
+      propertyPath: rewardGroundPrefabs.Array.data[2]
+      value: 
+      objectReference: {fileID: 371301084720179868, guid: 10095a666a4683f4285de0cea347c383, type: 3}
     - target: {fileID: 1816433365029741221, guid: 5851954a9566b1e40b7141b9a44012aa, type: 3}
       propertyPath: m_Name
       value: GroundManager
